@@ -7,5 +7,6 @@ int main()
 	printf("Trying another Check:\n");
 	
 	printf("You are in the test branch\n");
+	printf("Now merged\n")
 	return 0;
 }
